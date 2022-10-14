@@ -39,7 +39,7 @@ SUCCESS!
 
 <img width="585" alt="Screen Shot 2022-10-14 at 2 29 32 PM" src="https://user-images.githubusercontent.com/45401483/195926452-acea6d83-80c3-4ea8-8b39-f1662fb71ca1.png">
 
-Not a little bad model.
+Not a bad little model.
 
 
 
